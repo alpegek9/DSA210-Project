@@ -15,5 +15,9 @@ I downloaded the data from chess.com games archive.It has the event,site,date,ro
 
 # Project Plan
 1.Download the data from chess.com.
-2.Plot the data for every month.
+2.Convert and merge PGN chess data file into text file and then extract relevant information.
+3.Anonymize opponent player names to maintain privacy.
+4.Compute statistical metrics such as win rates, lose rates.
+5.Generate visualizations of monthly win, lose, and draw rates to identify trends.
+6.Provide mathematical output in the console and detailed plots.
 
