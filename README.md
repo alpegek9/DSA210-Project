@@ -14,4 +14,6 @@ I chose to focus on this project for two reasons, mainly because chess has been 
 I downloaded the data from chess.com games archive.It has the event,site,date,round,white and black players username,result,white and black elo,timecontrol,endtime and termination as recorded data. I'll be focusing on date,result and termination.Result shows which side won and termination reveals who won by which method.Also I'll hide my opponents names since i cannot get the consent of all of them.
 
 # Project Plan
-I'll convert the pgn files to txt.
+1.Download the data from chess.com.
+2.Plot the data for every month.
+
